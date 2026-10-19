@@ -46,6 +46,8 @@ Explore the interactive Tableau dashboard:
 
 Telecom Customer Churn Dashboard
 
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/CASTILLAtelecom_customer_churnDashboard/FinalDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 Business Recommendations
 
 Review retention strategies for month-to-month customers.
